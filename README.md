@@ -10,4 +10,4 @@ To run Déjà-vu on your server you need the latest version of PHP (php8.2-fpm) 
 - php-sqlite
 - php-redis
 
-Also you need to install Redis for the shoutbox / chat.
+Also you need to install Redis (ON PORT : 6379) for some elements.
