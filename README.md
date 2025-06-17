@@ -11,3 +11,5 @@ To run Déjà-vu on your server you need the latest version of PHP (php8.2-fpm) 
 - php-redis
 
 Also you need to install Redis (ON PORT : 6379) for some elements.
+
+Credentials for admin account : username:admin password:tW*S&8%7RfLE$NF46bqH!
