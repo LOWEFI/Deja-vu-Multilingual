@@ -1,5 +1,5 @@
 # Deja-vu-Multilingual
-Déjà-vu Multilingual is a perfect forum project with no javasript and lots of translations.
+Déjà-vu Multilingual is a perfect forum project with no javascript and lots of translations.
 
 To run Déjà-vu on your server you need the latest version of PHP (php8.2-fpm) and some libraries :
 
